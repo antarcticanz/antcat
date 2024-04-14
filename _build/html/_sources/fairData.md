@@ -36,5 +36,5 @@ Make "FAIR" data (Findable, Accessible, Interoperable, Reusable) with interopera
 
 <br>
 
-<span style="font-size:16pt; margin-bottom: 0.2em;">**Other Formats**</span>
-See the [Datamesh documentation](https://docs.oceanum.io/datamesh/ui/connecting) for a full list of endorsed data types.
+<span style="font-size:16pt; margin-bottom: 0.2em;">**Other Formats**</span>  
+See [Datamesh documentation](https://docs.oceanum.io/datamesh/ui/connecting) for a full list of endorsed data types.

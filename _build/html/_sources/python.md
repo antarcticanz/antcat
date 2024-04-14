@@ -1,6 +1,7 @@
 # Python
 
- <span style="font-size:14pt;">**Access the catalogue with Python. See [Oceanum documentation](https://docs.oceanum.io/) for details.**</span>
+## Access the catalogue with Python....
+- See [Oceanum documentation](https://docs.oceanum.io/) for details.
  
 ```{image} python_jupyter.png
 :align: center
@@ -9,7 +10,7 @@
 <br>
 
  
- <span style="font-size:14pt;">**Export data access to a Python Notebook....**</span>
+## Export data access to a Python Notebook....
 ```{image} python_notebook.png
 :align: center
 ```
