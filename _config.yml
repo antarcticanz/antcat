@@ -32,4 +32,4 @@ html:
   use_repository_button: true
 
 # Set the baseurl for GitHub Pages deployment
-baseurl: "antarcticanz.github.io/antcatDocs"
+baseurl: "/antcatDocs"
