@@ -30,7 +30,7 @@ The catalogue is a distributed metadata management system which harvests and rep
 ```
 <br>
 
-## QGIS and Python Access
+## Link Data: QGIS and Python Access
 
 Link data to the catalogue and make it accessible from QGIS, Python Notebook and Jupyter Lab environments.
 - {doc}`linkData`
