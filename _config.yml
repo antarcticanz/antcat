@@ -33,3 +33,6 @@ html:
 
 # Set the baseurl for GitHub Pages deployment
 baseurl: "/antcatDocs"
+
+# Optional: Specify a Jekyll theme
+theme: jekyll-theme-minimal
