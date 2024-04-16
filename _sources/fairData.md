@@ -29,7 +29,7 @@ Make "FAIR" data (Findable, Accessible, Interoperable, Reusable) with interopera
 |-----------------------|-----------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | Physical      	| NetCDF                            | [Get Started with NetCDF and the Nansen Legacy Excel Spreadsheet Template Generator](https://www.nordatanet.no/aen/template-generator/config%3DCF-NetCDF)                    																			|
 | Physical      	| NetCDF                            | [Convert Data to NetCDF with R](https://www.youtube.com/watch?v=ozhpQofa_g4)                                          |
-| Physical      	| NetCDF                            | [Convert Data to NetCDF with Python](https://www.youtube.com/playlist?list=PLpykv05eUR0rAuaLnybkZORnCwyND4CV)          |
+| Physical      	| NetCDF                            | [Convert Data to NetCDF with Python](https://www.youtube.com/playlist?list=PLpykv05eUR0rAuaLnybkZORnCwyND4CV4)          |
 | Physical      	| Xarray                            | [Use Xarray to create NetCDF in with Python](https://www.youtube.com/watch?v=QXnY17DMm5c)                             |
 | Biodiversity  	| Darwin Core		 		        | [Get Started with DwC and the Nansen Legacy DwC Spreadsheet Template Generator](https://www.nordatanet.no/aen/template-generator/config%3DDarwin%20Core)                    																	   |
 | Biodiversity  	| Darwin Core				        | [Checklist Data](https://ipt.gbif.org/manual/en/ipt/latest/checklist-data#templates)                                  |
