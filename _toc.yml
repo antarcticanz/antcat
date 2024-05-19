@@ -2,17 +2,17 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: antarcticMetadataCatalogue
+root: antcat_docs
 chapters:
-- file: gettingStarted
+- file: getting_started
   title: Getting Started
 - file: account
   title: Account
 - file: metadata
   sections:
-  - file: metadataGuidance
+  - file: metadata_guidance
     title: Metadata Guidance
-- file: fairData
+- file: fair_data
 - file: api
   sections:
   - file: sitemap
@@ -22,12 +22,12 @@ chapters:
 - file: integrations
 - file: tutorial
   sections:
-  - file: metadataTutorial
+  - file: metadata_tutorial
     sections:
-    - file: createMetadata
-    - file: editMetadata
-    - file: publishMetadata
-  - file: linkData
+    - file: create_metadata
+    - file: edit_metadata
+    - file: publish_metadata
+  - file: link_data
     title: Link Data
   - file: qgis
   - file: python

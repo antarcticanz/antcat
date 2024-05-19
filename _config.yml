@@ -32,7 +32,7 @@ html:
   use_repository_button: true
 
 # Set the baseurl for GitHub Pages deployment
-baseurl: "/antcatDocs"
+baseurl: "/antcat_docs"
 
 # Optional: Specify a Jekyll theme
 theme: jekyll-theme-minimal

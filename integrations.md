@@ -17,7 +17,7 @@ The <span style="text-decoration: none;">Oceanum.io</span> environmental intelli
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="https://oceanum.io/">
-        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> ACCESS THE DATAMESH
+        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> Oceanum Datamesh
     </a>
 </div>
 
@@ -34,7 +34,6 @@ Data search portal providing federated search capability through a single interf
     </a>
 </div>
 
-
 <br>
 <br>
 
@@ -44,9 +43,13 @@ SOOSmap serves up curated and standardised observation data from oceanographic a
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="http://www.soosmap.aq/">
-        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> ACCESS SOOSmap
+        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> SOOSmap
     </a>
 </div>
+
+<br>
+<br>
+
 
 ## Antarctic Metadata Directory (AMD)
 
@@ -54,7 +57,7 @@ The Antarctic Metadata Directory is the largest collection of Antarctic data set
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="https://search.earthdata.nasa.gov/search?portal=amd">
-        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> ACCESS THE AMD
+        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> Antarctic Metadata Directory
     </a>
 </div>
 
@@ -67,7 +70,7 @@ Google Dataset Search is a search engine that helps users discover datasets stor
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="https://datasetsearch.research.google.com/">
-        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> ACCESS GOOGLE DATASET SEARCH
+        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> Google Dataset Search
     </a>
 </div>
 
@@ -81,7 +84,7 @@ Google Dataset Search is a search engine that helps users discover datasets stor
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="https://catalogue.data.govt.nz/dataset">
-        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> ACCESS data.govt.nz
+        <i class="fas fa-chevron-circle-right" style="color: white; margin-right: 8px;"></i> Data.govt.nz
     </a>
 </div>
 <br>

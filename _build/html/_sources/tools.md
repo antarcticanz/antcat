@@ -9,8 +9,8 @@
 
 
 ## Python
-- [Antarctic plots](https://antarctic-plots.readthedocs.io/en/latest/): Functions to automate Antarctic data visualization.
+- [PolarToolKit](https://polartoolkit.readthedocs.io/en/latest/): A Python package with the goal of making Polar (i.e. Antarctic, Arctic, Greenland) research more efficient, reproducible, and accessible
 
 
 ## QGIS
-- [BAS - Antarctica and Southern Ocean basemap for Desktop GIS] (https://guides.geospatial.bas.ac.uk/using-mapping-data-services/bas-mapping-services/antarctica-and-southern-ocean-basemap-for-desktop-gis#using-the-basemap-in-qgis)
+- [BAS Mapping Data Service](https://guides.geospatial.bas.ac.uk/using-mapping-data-services/bas-mapping-services/antarctica-and-southern-ocean-basemap-for-desktop-gis): Antarctica and Southern Ocean basemap for Desktop GIS (updated 6 monthly)

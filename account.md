@@ -20,4 +20,4 @@ To sign in to the Antarctic Metadata Catalogue, click the Sign in button on the 
 <br>
 
 ## Related Pages
--  {doc}`linkData`
+-  {doc}`link_data`
