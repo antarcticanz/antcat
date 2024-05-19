@@ -36,6 +36,5 @@
 ```
 <br>
 
-### Guidance
-[Metadata guidance](https://www.bas.ac.uk/wp-content/uploads/2023/03/Metadata_Guidance_v8_Example.pdf) is provided by the British Antarctic Survey Data Center.
-
+<span style="font-size:14pt;">* Further metadata guidance is provided by the [The Spatial Information Council](https://openwork-nz.github.io/ANZLIC-Metadata-Tool-help/), and [British Antarctic Survey Data Center](https://www.bas.ac.uk/wp-content/uploads/2023/03/Metadata_Guidance_v8_Example.pdf) .</span>
+<br>

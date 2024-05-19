@@ -9,13 +9,12 @@
 </div>
 
 <br>
-<br>
 
 ### 1. Sign in -  {doc}`account`
 
 <br>
 
-### Navigate to Contribute > Add new record ....
+### 2. Navigate to Contribute > Add new record ....
 
 ```{image} create_resize.png
 :align: center
@@ -23,7 +22,7 @@
 <br>
 <br>
 
-### 2. Select group ....
+### 3. Select group ....
 
 ```{image} create_assigngroup_resize.png
 :align: center
@@ -31,7 +30,7 @@
 <br>
 <br>
 
-### 3. Complete related fields ....
+### 4. Complete related fields ....
 
 ```{image} create_enterdetails_resize.png
 :align: center
@@ -39,12 +38,11 @@
 <br>
 <br>
 
-### 4. Save changes ....
+### 5. Save changes ....
 
 ```{image} edit_save_resize.png
 :align: center
-<br>
+```
 <br>
 
-### Guidance
-[Metadata guidance](https://www.bas.ac.uk/wp-content/uploads/2023/03/Metadata_Guidance_v8_Example.pdf) is provided by the British Antarctic Survey Data Center.
+<span style="font-size:14pt;">* Further metadata guidance is provided by the [The Spatial Information Council](https://openwork-nz.github.io/ANZLIC-Metadata-Tool-help/), and [British Antarctic Survey Data Center](https://www.bas.ac.uk/wp-content/uploads/2023/03/Metadata_Guidance_v8_Example.pdf) .</span>

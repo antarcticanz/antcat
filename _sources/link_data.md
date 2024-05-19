@@ -4,8 +4,8 @@ Existing published data can be linked to the catalogue. Data linked to the catal
 
 ## Create a new or edit and exisitng record ....
 
-- See {doc}`createMetadata`
-- See {doc}`editMetadata`
+- See {doc}`create_metadata`
+- See {doc}`edit_metadata`
 
 ## Select "Link an online resource"
 
@@ -26,7 +26,7 @@ Existing published data can be linked to the catalogue. Data linked to the catal
 ```
 <br>
 
-### 4. Save changes ....
+## 4. Save changes ....
 
 ```{image} edit_save_resize.png
 :align: center

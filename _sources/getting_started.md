@@ -77,3 +77,4 @@ Apply a spatial filter to the catalogue:
 ```{image} image_spatial.png
 :align: left
 ```
+<br>
