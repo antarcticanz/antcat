@@ -23,7 +23,6 @@ https://antcat.antarcticanz.govt.nz/geonetwork/srv/eng/csw
 ```
 
 <br>
-<br>
 
 ## Successful connection --->
 
@@ -31,3 +30,4 @@ https://antcat.antarcticanz.govt.nz/geonetwork/srv/eng/csw
 ```{image} qgis_success.png
 :align: center
 ```
+<br>

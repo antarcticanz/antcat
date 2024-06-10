@@ -6,7 +6,7 @@
 
 ## Discover and Access Data
 
-The catalogue hosts New Zealand's Antarctic and Southern Ocean data with a metadata record. The catalogue provides access to Antarctic Science Platform and Antarctica New Zealand supported science.
+The catalogue hosts New Zealand's Antarctic and Southern Ocean data with a metadata record, and provides access to Antarctic Science Platform and Antarctica New Zealand supported data.
 
 <div style="background-color: #007BFF; border: 2px solid #007BFF; border-radius: 6px; padding: 8px; display: inline-block; position: relative;">
     <a style="font-size: 16px; text-decoration: none; color: white; position: relative; top: -1px;" href="https://antcat.antarcticanz.govt.nz/geonetwork">
@@ -21,7 +21,7 @@ The catalogue hosts New Zealand's Antarctic and Southern Ocean data with a metad
 
 ## About
 
-The catalogue is a distributed metadata management system which harvests and replicates metadata from other sources – the catalogue does not currently host data. This creates a virtual data centre providing seamless data discovery, access, and usage across the domain specific and physically distributed data repositories.  
+The catalogue is a distributed metadata management system which creates and harvests metadata from other sources – the catalogue does not currently host data. This creates a virtual data centre providing seamless data discovery, access, and usage across the domain specific and physically distributed data repositories.  
 
 <br>
 
